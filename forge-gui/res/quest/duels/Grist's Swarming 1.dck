@@ -3,8 +3,8 @@
 Name=Grist's Swarming 1 
 Title=Grist, the Hunger Tide
 Difficulty=easy
-Description=BG Insect-themed deck with limited reanimation
-Icon=Grist, the Hunger Tide 1.jpg
+Description=BG Insect-themed deck with limited reanimation  -"The hunger tide sweeps across the land, calling us forth from slumber." -The Song of Grist
+Icon=Grist, the Hunger Tide.jpg
 Deck Type=constructed
 [Main]
 1 Ant Queen
