@@ -3,9 +3,9 @@
 Name=Chandra's Firewave 2
 Title=Chandra Nalaar
 Difficulty=medium
-Description=Mono-red burn theme deck
+Description=Mono-red burn theme deck  -"They say a spark can light the darkest shadows. Let's see if they're right." -Chandra Nalaar
 Deck Type=constructed
-Icon=Chandra2 2.jpg
+Icon=Chandra2.jpg
 [Main]
 2 Browbeat
 2 Chandra's Outrage

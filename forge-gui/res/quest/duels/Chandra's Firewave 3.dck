@@ -3,9 +3,9 @@
 Name=Chandra's Firewave 3
 Title=Chandra Nalaar
 Difficulty=hard
-Description=Mono-red burn theme deck
+Description=Mono-red burn theme deck  -"When you play with fire, you'd better be ready for the flames." -Chandra Nalaar
 Deck Type=constructed
-Icon=Chandra2 3.jpg
+Icon=Chandra2.jpg
 [Main]
 3 Blighted Gorge
 3 Browbeat

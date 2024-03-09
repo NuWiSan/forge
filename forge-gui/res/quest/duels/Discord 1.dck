@@ -3,7 +3,7 @@
 Name=Discord 1
 Title=Discord
 Difficulty=easy
-Description=Mono R chaotic deck relying on Coin Flip mechanic and singletons that progressively make the game state more confusing (Confusion in the Ranks, Possibility Storm, Warp World)
+Description=Mono R chaotic deck relying on Coin Flip mechanic and singletons that progressively make the game state more confusing.  -"Oh, the drama!" -Discord
 Icon=Discord.jpg
 Deck Type=constructed
 [main]

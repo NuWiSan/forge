@@ -3,8 +3,8 @@
 Name=Galactus 2
 Title=Galactus
 Difficulty=medium
-Description=UB Processor deck
-Icon=Galactus 2.jpg
+Description=UB Processor deck  -"I have come from the farthest reaches of space -- to proclaim the doom of the human race!" -Galactus
+Icon=Galacticus.jpg
 Deck Type=constructed
 [main]
 5 Swamp|ISD

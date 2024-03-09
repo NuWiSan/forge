@@ -3,9 +3,9 @@
 Name=Chandra's Incineration 3
 Title=Chandra Nalaar
 Difficulty=hard
-Description=Mono-red burn and elemental theme with Chandra planeswalkers
+Description=Mono-red burn and elemental theme with Chandra planeswalkers  -"I may burn bright, but I'll never be extinguished." -Chandra
 Deck Type=constructed
-Icon=Chandra Nalaar 3.jpg
+Icon=Chandra Nalaar.jpg
 [Main]
 1 Chandra Nalaar
 1 Chandra's Firemaw

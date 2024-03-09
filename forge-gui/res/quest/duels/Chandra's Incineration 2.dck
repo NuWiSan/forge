@@ -3,9 +3,9 @@
 Name=Chandra's Incineration 2
 Title=Chandra Nalaar
 Difficulty=medium
-Description=Mono-red burn and elemental theme with Chandra planeswalkers
+Description=Mono-red burn and elemental theme with Chandra planeswalkers  -"Some people just want to watch the world burn. Me? I want to harness its power." -Chandra
 Deck Type=constructed
-Icon=Chandra Nalaar 2.jpg
+Icon=Chandra Nalaar.jpg
 [Main]
 1 Chandra Nalaar
 1 Chandra's Firemaw

@@ -3,9 +3,9 @@
 Name=Chandra's Firewave 4
 Title=Chandra Nalaar
 Difficulty=very hard
-Description=Mono-red burn theme deck
+Description=Mono-red burn theme deck  -"Fire is a wild thing. Unpredictable, untamable. But with the right touch, it can be a powerful ally." -Chandra Nalaar
 Deck Type=constructed
-Icon=Chandra2 4.jpg
+Icon=Chandra2.jpg
 [Main]
 2 Burn from Within
 1 Chandra Nalaar

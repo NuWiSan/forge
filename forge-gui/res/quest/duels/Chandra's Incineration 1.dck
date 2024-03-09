@@ -3,9 +3,9 @@
 Name=Chandra's Incineration 1
 Title=Chandra Nalaar
 Difficulty=easy
-Description=Mono-red burn and elemental theme with Chandra planeswalkers
+Description=Mono-red burn and elemental theme with Chandra planeswalkers  -"I don't start fires. I just finish them." -Chandra
 Deck Type=constructed
-Icon=Chandra Nalaar 1.jpg
+Icon=Chandra Nalaar.jpg
 [Main]
 2 Beacon of Destruction
 1 Chandra Nalaar

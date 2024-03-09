@@ -3,9 +3,9 @@
 Name=Chandra's Firewave 1
 Title=Chandra Nalaar
 Difficulty=easy
-Description=Mono-red burn theme deck
+Description=Mono-red burn theme deck  -"Fire can heal, but it can also burn. It can purify, but it can also destroy. It's a fine line, and I've walked it my entire life." -Chandra Nalaar
 Deck Type=constructed
-Icon=Chandra2 1.jpg
+Icon=Chandra2.jpg
 [Main]
 2 Bloodpyre Elemental
 2 Chandra's Outrage
