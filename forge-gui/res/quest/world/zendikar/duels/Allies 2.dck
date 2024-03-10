@@ -1,10 +1,9 @@
 [duel]
 [metadata]
 Name=Allies 2
-Title=& Allies
+Title=Allies
 Difficulty=medium
-Description="An army is a team. It lives, eats, sleeps, fights as a team.
-This individuality stuff is a bunch of bullshit." 
+Description="An army is a team. It lives, eats, sleeps, fights as a team. This individuality stuff is a bunch of bullshit." 
 Icon=Allies.jpg
 Deck Type=constructed
 [Main]

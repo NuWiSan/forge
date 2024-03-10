@@ -3,8 +3,8 @@
 Name=Karn's Modular Constructs 1
 Title=Karn, Silver Golem
 Difficulty=easy
-Description=Colorless modular artifact creatures and charged artifacts
-Icon=Karn 1.jpg
+Description=Colorless modular artifact creatures and charged artifacts.  -"I will go where the first stone was cast." -Karn
+Icon=Karn.jpg
 Deck Type=constructed
 [Main]
 2 Arcbound Bruiser

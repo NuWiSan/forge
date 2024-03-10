@@ -3,8 +3,8 @@
 Name=Karn's Modular Constructs 2
 Title=Karn, Silver Golem
 Difficulty=medium
-Description=Colorless modular artifact creatures and charged artifacts
-Icon=Karn 2.jpg
+Description=Colorless modular artifact creatures and charged artifacts.  -"Where the Elders once thrived, only broken ruins remain." -Karn
+Icon=Karn.jpg
 Deck Type=constructed
 [Main]
 1 Animation Module

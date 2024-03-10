@@ -1,6 +1,6 @@
 https://downloads.cardforge.org/images/icons/4-Color%20Aggro.jpg
 https://downloads.cardforge.org/images/icons/A%20Thunderstorm.jpg
-https://downloads.cardforge.org/images/icons/A%20Wolf%20in%20Sheeps%20Clothing.jpg
+https://downloads.cardforge.org/images/icons/A%20Wolf%20in%20Sheeps%20Clothing1.jpg
 https://downloads.cardforge.org/images/icons/Abassi.jpg
 https://downloads.cardforge.org/images/icons/Abe%20Sapien.jpg
 https://downloads.cardforge.org/images/icons/Abiku.jpg
@@ -42,7 +42,9 @@ https://downloads.cardforge.org/images/icons/An-Havva.jpg
 https://downloads.cardforge.org/images/icons/Anakin%20Skywalker.jpg
 https://downloads.cardforge.org/images/icons/Anansi.jpg
 https://downloads.cardforge.org/images/icons/Ancient%20Battlefield.jpg
+https://downloads.cardforge.org/images/icons/Ancient%20Silverback.jpg
 https://downloads.cardforge.org/images/icons/Angelic%20Might.jpg
+https://downloads.cardforge.org/images/icons/Angels%20Trumpet.jpg
 https://downloads.cardforge.org/images/icons/Angrath.jpg
 https://downloads.cardforge.org/images/icons/Angus%20Mackenzie.jpg
 https://downloads.cardforge.org/images/icons/Animar.jpg
@@ -59,6 +61,7 @@ https://downloads.cardforge.org/images/icons/Archon%20Namani.jpg
 https://downloads.cardforge.org/images/icons/Ares.jpg
 https://downloads.cardforge.org/images/icons/Argive.jpg
 https://downloads.cardforge.org/images/icons/Argoth.jpg
+https://downloads.cardforge.org/images/icons/Argothian%20Enchantress.jpg
 https://downloads.cardforge.org/images/icons/Ariel.jpg
 https://downloads.cardforge.org/images/icons/Arjun.jpg
 https://downloads.cardforge.org/images/icons/Arlinn%20Kord.jpg 
@@ -67,6 +70,7 @@ https://downloads.cardforge.org/images/icons/Art-Deco.jpg
 https://downloads.cardforge.org/images/icons/Artemis.jpg
 https://downloads.cardforge.org/images/icons/Arzakon.jpg
 https://downloads.cardforge.org/images/icons/Asanbosam.jpg
+https://downloads.cardforge.org/images/icons/Ash%20Williams.jpg
 https://downloads.cardforge.org/images/icons/Ash%20Williams%201.jpg
 https://downloads.cardforge.org/images/icons/Ashiok,%20Nightmare%20Weaver.jpg
 https://downloads.cardforge.org/images/icons/Ashling,%20the%20Extinguisher.jpg
@@ -142,6 +146,7 @@ https://downloads.cardforge.org/images/icons/Birdy%20the%20Mighty.jpg
 https://downloads.cardforge.org/images/icons/Black%20%26%20Blue%20Midrange.jpg
 https://downloads.cardforge.org/images/icons/Black%20Abott.jpg
 https://downloads.cardforge.org/images/icons/Black%20Flame.jpg
+https://downloads.cardforge.org/images/icons/Black%20Knight%20Yawgmoth.jpg
 https://downloads.cardforge.org/images/icons/Black%20Panther.jpg
 https://downloads.cardforge.org/images/icons/Black.jpg
 https://downloads.cardforge.org/images/icons/BlackPanther.jpg
@@ -218,7 +223,8 @@ https://downloads.cardforge.org/images/icons/Crocodile%20Dundee.jpg
 https://downloads.cardforge.org/images/icons/Cromer.jpg
 https://downloads.cardforge.org/images/icons/Crows%20in%20the%20Field.jpg
 https://downloads.cardforge.org/images/icons/Crusader.jpg
-https://downloads.cardforge.org/images/icons/Cuthbert%20Allgood%201.jpg
+https://downloads.cardforge.org/images/icons/Cursed%20Land.jpg
+https://downloads.cardforge.org/images/icons/Cuthbert%20Allgood.jpg
 https://downloads.cardforge.org/images/icons/Cutiepie.jpg
 https://downloads.cardforge.org/images/icons/Cyclops.jpg
 https://downloads.cardforge.org/images/icons/Da%20Vinci.jpg
@@ -285,13 +291,13 @@ https://downloads.cardforge.org/images/icons/Drana.jpg
 https://downloads.cardforge.org/images/icons/Dream.jpg
 https://downloads.cardforge.org/images/icons/Druid.jpg
 https://downloads.cardforge.org/images/icons/Dumbledore.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Black.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Blue.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Colorless.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Gold.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Green.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Red.jpg
-https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20White.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Black1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Blue1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Colorless1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Gold1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Green1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20Red1.jpg
+https://downloads.cardforge.org/images/icons/Dungeon%20Crawling%20White1.jpg
 https://downloads.cardforge.org/images/icons/Edna%20Krabappel.jpg
 https://downloads.cardforge.org/images/icons/Edward%20Scissorhands.jpg
 https://downloads.cardforge.org/images/icons/Eggs%20and%20Honey.jpg
@@ -362,17 +368,19 @@ https://downloads.cardforge.org/images/icons/Genghis%20Khan.jpg
 https://downloads.cardforge.org/images/icons/George%20of%20the%20Jungle.jpg
 https://downloads.cardforge.org/images/icons/Ghave.jpg
 https://downloads.cardforge.org/images/icons/Ghost%20Council.jpg
-https://downloads.cardforge.org/images/icons/Ghost%20Rider.jpg
+https://downloads.cardforge.org/images/icons/Ghost%20Rider1.jpg
 https://downloads.cardforge.org/images/icons/Gideon%20Jura.jpg
 https://downloads.cardforge.org/images/icons/Gideon%2C%20Martial%20Paragon.jpg
 https://downloads.cardforge.org/images/icons/Gideon.jpg
 https://downloads.cardforge.org/images/icons/Gill%20Mann.jpg
 https://downloads.cardforge.org/images/icons/Gimli.jpg
+https://downloads.cardforge.org/images/icons/Gingerbread%20House.jpg
 https://downloads.cardforge.org/images/icons/Girundar.jpg
 https://downloads.cardforge.org/images/icons/Gix.jpg
 https://downloads.cardforge.org/images/icons/Gleeful%20Flames.jpg
 https://downloads.cardforge.org/images/icons/Gloria.jpg
 https://downloads.cardforge.org/images/icons/Goblin%20Lord.jpg
+https://downloads.cardforge.org/images/icons/goblin%20marshal.jpg
 https://downloads.cardforge.org/images/icons/Goblins.jpg
 https://downloads.cardforge.org/images/icons/Gold%20Finger.jpg
 https://downloads.cardforge.org/images/icons/Gold%20Skurge.jpg
@@ -423,6 +431,7 @@ https://downloads.cardforge.org/images/icons/Hera.jpg
 https://downloads.cardforge.org/images/icons/Hercules.jpg
 https://downloads.cardforge.org/images/icons/Hermes%20Conrad.jpg
 https://downloads.cardforge.org/images/icons/Hermione%20Granger.jpg
+https://downloads.cardforge.org/images/icons/Hermit.jpg
 https://downloads.cardforge.org/images/icons/Hestia.jpg
 https://downloads.cardforge.org/images/icons/Higgins.jpg
 https://downloads.cardforge.org/images/icons/High%20Priest.jpg
@@ -453,6 +462,7 @@ https://downloads.cardforge.org/images/icons/Imperial%20Guard.jpg
 https://downloads.cardforge.org/images/icons/Impundulu.jpg
 https://downloads.cardforge.org/images/icons/Indiana%20Jones.jpg
 https://downloads.cardforge.org/images/icons/Inspector%20Gadget.jpg
+https://downloads.cardforge.org/images/icons/Intrepid%20Hero.jpg
 https://downloads.cardforge.org/images/icons/InuYasha.jpg
 https://downloads.cardforge.org/images/icons/Invisible%20Man.jpg
 https://downloads.cardforge.org/images/icons/Iroh.jpg
@@ -470,7 +480,7 @@ https://downloads.cardforge.org/images/icons/Jack%20Sparrow.jpg
 https://downloads.cardforge.org/images/icons/Jacob%20Grimm.jpg
 https://downloads.cardforge.org/images/icons/Jacques%20le%20Vert.jpg
 https://downloads.cardforge.org/images/icons/Jafar.jpg
-https://downloads.cardforge.org/images/icons/Jake%20Chambers%201.jpg
+https://downloads.cardforge.org/images/icons/Jake%20Chambers.jpg
 https://downloads.cardforge.org/images/icons/James%20Bond.jpg
 https://downloads.cardforge.org/images/icons/James%20T%20Kirk.jpg
 https://downloads.cardforge.org/images/icons/Jandor.jpg
@@ -479,7 +489,7 @@ https://downloads.cardforge.org/images/icons/Jasmine%20Boreal.jpg
 https://downloads.cardforge.org/images/icons/Jason%20Voorhees.jpg
 https://downloads.cardforge.org/images/icons/Jaya%20Ballard.jpg
 https://downloads.cardforge.org/images/icons/Jedit%20Ojanen.jpg
-https://downloads.cardforge.org/images/icons/Jeepers%20Creepers%201.jpg
+https://downloads.cardforge.org/images/icons/Jeepers%20Creepers.jpg
 https://downloads.cardforge.org/images/icons/Jengu.jpg
 https://downloads.cardforge.org/images/icons/Jesse%20James.jpg
 https://downloads.cardforge.org/images/icons/Jiang%20Yanggu.jpg
@@ -489,7 +499,7 @@ https://downloads.cardforge.org/images/icons/Joker.jpg
 https://downloads.cardforge.org/images/icons/Joris%20Jurgen.jpg
 https://downloads.cardforge.org/images/icons/Jorn.jpg
 https://downloads.cardforge.org/images/icons/Jubilee.jpg
-https://downloads.cardforge.org/images/icons/Jugan,%20the%20Rising%20Star%201.jpg
+https://downloads.cardforge.org/images/icons/Jugan.jpg
 https://downloads.cardforge.org/images/icons/JuzamGenie.jpg
 https://downloads.cardforge.org/images/icons/Kai%20Buddha.jpg
 https://downloads.cardforge.org/images/icons/Kaito%20Shizuki.jpg
@@ -509,7 +519,7 @@ https://downloads.cardforge.org/images/icons/Katara.jpg
 https://downloads.cardforge.org/images/icons/Kaya.jpg
 https://downloads.cardforge.org/images/icons/Keep%20off%20the%20grass.jpg
 https://downloads.cardforge.org/images/icons/Kefnet%20the%20Mindful.jpg
-https://downloads.cardforge.org/images/icons/Keiga,%20the%20Tide%20Star%201.jpg
+https://downloads.cardforge.org/images/icons/keiga,%20the%20tide%20star.jpg
 https://downloads.cardforge.org/images/icons/Kemba.jpg
 https://downloads.cardforge.org/images/icons/KilijArslan.jpg
 https://downloads.cardforge.org/images/icons/King%20Arthur.jpg
@@ -518,10 +528,12 @@ https://downloads.cardforge.org/images/icons/King%20Goldemar.jpg
 https://downloads.cardforge.org/images/icons/King%20Kong.jpg
 https://downloads.cardforge.org/images/icons/KingKong.jpg
 https://downloads.cardforge.org/images/icons/Kiora.jpg
+https://downloads.cardforge.org/images/icons/Kiora2.jpg
 https://downloads.cardforge.org/images/icons/Kiska-Ra.jpg
 https://downloads.cardforge.org/images/icons/Kobolds.jpg
 https://downloads.cardforge.org/images/icons/Kojak.jpg
 https://downloads.cardforge.org/images/icons/Koskun.jpg
+https://downloads.cardforge.org/images/icons/Kokusho.jpg
 https://downloads.cardforge.org/images/icons/Koth%20of%20the%20Hammer.jpg
 https://downloads.cardforge.org/images/icons/Kozilek.jpg
 https://downloads.cardforge.org/images/icons/Kraj.jpg
@@ -530,6 +542,7 @@ https://downloads.cardforge.org/images/icons/Krufa.jpg
 https://downloads.cardforge.org/images/icons/Krypto.jpg
 https://downloads.cardforge.org/images/icons/Kyouko%20Kasodani.jpg
 https://downloads.cardforge.org/images/icons/LSV.jpg
+https://downloads.cardforge.org/images/icons/Laboratory.jpg
 https://downloads.cardforge.org/images/icons/Lacjs.jpg
 https://downloads.cardforge.org/images/icons/Lady%20Musgrave.jpg
 https://downloads.cardforge.org/images/icons/Lady%20Orca.jpg
@@ -541,7 +554,7 @@ https://downloads.cardforge.org/images/icons/Land%27s%20Edge.jpg
 https://downloads.cardforge.org/images/icons/Lat-Nam.jpg
 https://downloads.cardforge.org/images/icons/Lazav.jpg
 https://downloads.cardforge.org/images/icons/LeChuck.jpg
-https://downloads.cardforge.org/images/icons/Leatherface%201.jpg
+https://downloads.cardforge.org/images/icons/Leatherface.jpg
 https://downloads.cardforge.org/images/icons/Leeching%20Gremlins.jpg
 https://downloads.cardforge.org/images/icons/Leela.jpg
 https://downloads.cardforge.org/images/icons/Lefterel.jpg
@@ -590,6 +603,7 @@ https://downloads.cardforge.org/images/icons/Medusa.jpg
 https://downloads.cardforge.org/images/icons/Melira.jpg
 https://downloads.cardforge.org/images/icons/Mephisto.jpg
 https://downloads.cardforge.org/images/icons/Merfolk%20Shaman.jpg
+https://downloads.cardforge.org/images/icons/Metathran%20Elite.jpg
 https://downloads.cardforge.org/images/icons/Micheal%20Myers.jpg
 https://downloads.cardforge.org/images/icons/Miffy.jpg
 https://downloads.cardforge.org/images/icons/Mighty%20Red.jpg
@@ -614,7 +628,7 @@ https://downloads.cardforge.org/images/icons/Mr%20Slate.jpg
 https://downloads.cardforge.org/images/icons/Mr%20Smith.jpg
 https://downloads.cardforge.org/images/icons/Mu%20Yanling.jpg
 https://downloads.cardforge.org/images/icons/Mystique.jpg
-https://downloads.cardforge.org/images/icons/NDE.jpg
+https://downloads.cardforge.org/images/icons/NDE1.jpg
 https://downloads.cardforge.org/images/icons/Nac%20Mac%20Feegle.jpg
 https://downloads.cardforge.org/images/icons/Nagini.jpg
 https://downloads.cardforge.org/images/icons/Nagsnarf.jpg
@@ -639,6 +653,7 @@ https://downloads.cardforge.org/images/icons/Nibbler.jpg
 https://downloads.cardforge.org/images/icons/Nick%20Fury.jpg
 https://downloads.cardforge.org/images/icons/Nicol%20Bolas%2C%20Planeswalker.jpg
 https://downloads.cardforge.org/images/icons/Nicol%20Bolas%2C%20the%20Deceiver.jpg
+https://downloads.cardforge.org/images/icons/Nightshade%20Seer.jpg
 https://downloads.cardforge.org/images/icons/Niko%20Aris.jpg
 https://downloads.cardforge.org/images/icons/Ninithili.jpg
 https://downloads.cardforge.org/images/icons/Nissa%20Revane.jpg
@@ -668,6 +683,7 @@ https://downloads.cardforge.org/images/icons/Oketra.jpg
 https://downloads.cardforge.org/images/icons/Oko,%20Thief%20of%20Crowns.jpg
 https://downloads.cardforge.org/images/icons/Olivia%20Voldaren.jpg
 https://downloads.cardforge.org/images/icons/Olokun.jpg
+https://downloads.cardforge.org/images/icons/opal%20palace.jpg
 https://downloads.cardforge.org/images/icons/Operation%20Jumbo%20Drop.jpg
 https://downloads.cardforge.org/images/icons/Ophelia.jpg
 https://downloads.cardforge.org/images/icons/Optimus%20Prime.jpg
@@ -692,9 +708,12 @@ https://downloads.cardforge.org/images/icons/Pendelhavening.jpg
 https://downloads.cardforge.org/images/icons/Pennywise.jpg
 https://downloads.cardforge.org/images/icons/Percedal%20of%20Sadlygrove.jpg
 https://downloads.cardforge.org/images/icons/Peregrin%20Took.jpg
+https://downloads.cardforge.org/images/icons/Pestilence.jpg
 https://downloads.cardforge.org/images/icons/Phenukenes.jpg
 https://downloads.cardforge.org/images/icons/Phoebe.jpg
 https://downloads.cardforge.org/images/icons/Phyrexia.jpg
+https://downloads.cardforge.org/images/icons/phyrexia%20assimilator.jpg
+https://downloads.cardforge.org/images/icons/Phyrexian%20Negator.jpg
 https://downloads.cardforge.org/images/icons/Picard.jpg
 https://downloads.cardforge.org/images/icons/Pinhead.jpg 
 https://downloads.cardforge.org/images/icons/Pinky%20and%20the%20Brain.jpg
@@ -740,7 +759,7 @@ https://downloads.cardforge.org/images/icons/Rafiq.jpg
 https://downloads.cardforge.org/images/icons/Rakdos.jpg
 https://downloads.cardforge.org/images/icons/Ral%20Zarek.jpg
 https://downloads.cardforge.org/images/icons/Rambo.jpg
-https://downloads.cardforge.org/images/icons/Ramos%201.jpg
+https://downloads.cardforge.org/images/icons/Ramos.jpg
 https://downloads.cardforge.org/images/icons/Ramsay%20the%20Flayer.jpg
 https://downloads.cardforge.org/images/icons/Ramses%20Overdark.jpg
 https://downloads.cardforge.org/images/icons/Ras%20Al%20Ghul.jpg
@@ -758,6 +777,7 @@ https://downloads.cardforge.org/images/icons/Remilia%20Scarlet.jpg
 https://downloads.cardforge.org/images/icons/Remingtom%20Smisse.jpg
 https://downloads.cardforge.org/images/icons/Remington%20Smisse.jpg
 https://downloads.cardforge.org/images/icons/Repel%20the%20Dark.jpg
+https://downloads.cardforge.org/images/icons/Repercussion.jpg
 https://downloads.cardforge.org/images/icons/Repressed%20Magic.jpg
 https://downloads.cardforge.org/images/icons/Reveka%2C%20Wizard%20Savant.jpg
 https://downloads.cardforge.org/images/icons/Reverend%20Lovejoy.jpg
@@ -772,8 +792,9 @@ https://downloads.cardforge.org/images/icons/Robin.jpg
 https://downloads.cardforge.org/images/icons/Robocop.jpg 
 https://downloads.cardforge.org/images/icons/Robot%20Santa.jpg
 https://downloads.cardforge.org/images/icons/Rocky.jpg
+https://downloads.cardforge.org/images/icons/Rofellos.jpg
 https://downloads.cardforge.org/images/icons/Rogue.jpg
-https://downloads.cardforge.org/images/icons/Roland%201.jpg
+https://downloads.cardforge.org/images/icons/Roland%20Deschain.jpg
 https://downloads.cardforge.org/images/icons/Room-Blk.jpg
 https://downloads.cardforge.org/images/icons/Room-Blu.jpg
 https://downloads.cardforge.org/images/icons/Room-Grn.jpg
@@ -782,7 +803,7 @@ https://downloads.cardforge.org/images/icons/Room-Wht.jpg
 https://downloads.cardforge.org/images/icons/Rough%20Weather.jpg
 https://downloads.cardforge.org/images/icons/Rowan%20and%20Will%20Kenrith.jpg 
 https://downloads.cardforge.org/images/icons/Ruel%20Stroud.jpg
-https://downloads.cardforge.org/images/icons/Ryusei,%20the%20Falling%20Star%201.jpg
+https://downloads.cardforge.org/images/icons/Ryusei.jpg
 https://downloads.cardforge.org/images/icons/Sabertooth.jpg
 https://downloads.cardforge.org/images/icons/Saheeli%20Rai.jpg
 https://downloads.cardforge.org/images/icons/Sainted%20One.jpg
@@ -812,6 +833,8 @@ https://downloads.cardforge.org/images/icons/Selesnya-precon.jpg
 https://downloads.cardforge.org/images/icons/Sen-Sei.jpg
 https://downloads.cardforge.org/images/icons/Sentinel.jpg
 https://downloads.cardforge.org/images/icons/SerendibGenie.jpg
+https://downloads.cardforge.org/images/icons/serra%20angel.jpg
+https://downloads.cardforge.org/images/icons/Serra%20Avatar.jpg
 https://downloads.cardforge.org/images/icons/Serra%27s%20Legacy.jpg
 https://downloads.cardforge.org/images/icons/Seshiro.jpg
 https://downloads.cardforge.org/images/icons/Seth.jpg
@@ -830,7 +853,9 @@ https://downloads.cardforge.org/images/icons/She-Hulk.jpg
 https://downloads.cardforge.org/images/icons/Shelob.jpg
 https://downloads.cardforge.org/images/icons/Sheoldred.jpg
 https://downloads.cardforge.org/images/icons/Sherlock%20Holmes.jpg
-https://downloads.cardforge.org/images/icons/Shessra.jpg 
+https://downloads.cardforge.org/images/icons/Shessra.jpg
+https://downloads.cardforge.org/images/icons/Shivan%20Hellkite.jpg
+https://downloads.cardforge.org/images/icons/Shivan%20Phoenix.jpg
 https://downloads.cardforge.org/images/icons/Shrek.jpg
 https://downloads.cardforge.org/images/icons/Shrike.jpg 
 https://downloads.cardforge.org/images/icons/Shrouded%20Masks.jpg
@@ -860,6 +885,7 @@ https://downloads.cardforge.org/images/icons/Sol%27kanar%20the%20Swamp%20King.jp
 https://downloads.cardforge.org/images/icons/Solaire.jpg
 https://downloads.cardforge.org/images/icons/Soldiers.jpg
 https://downloads.cardforge.org/images/icons/Solitary%20Fiends.jpg
+https://downloads.cardforge.org/images/icons/Somnophore.jpg
 https://downloads.cardforge.org/images/icons/Son%20of%20Ri.jpg
 https://downloads.cardforge.org/images/icons/Sorcerer.jpg
 https://downloads.cardforge.org/images/icons/Sorceress.jpg
@@ -935,7 +961,7 @@ https://downloads.cardforge.org/images/icons/The%20Dwarven%20Stronghold.jpg
 https://downloads.cardforge.org/images/icons/The%20Ebon%20Hand.jpg
 https://downloads.cardforge.org/images/icons/The%20Faeries.jpg
 https://downloads.cardforge.org/images/icons/The%20Farrelite%20Cult.jpg
-https://downloads.cardforge.org/images/icons/The%20Flash%201.jpg
+https://downloads.cardforge.org/images/icons/The%20Flash.jpg
 https://downloads.cardforge.org/images/icons/The%20Floating%20Isle.jpg
 https://downloads.cardforge.org/images/icons/The%20Forgotten.jpg
 https://downloads.cardforge.org/images/icons/The%20Great%20Gatsby.jpg
@@ -1002,9 +1028,11 @@ https://downloads.cardforge.org/images/icons/Tisiphone.jpg
 https://downloads.cardforge.org/images/icons/Titania.jpg
 https://downloads.cardforge.org/images/icons/Token.jpg
 https://downloads.cardforge.org/images/icons/Tolaria.jpg
+https://downloads.cardforge.org/images/icons/Tolarian%20Academy.jpg
 https://downloads.cardforge.org/images/icons/Tolsimir.jpg
 https://downloads.cardforge.org/images/icons/Tom%20Bombadil.jpg
 https://downloads.cardforge.org/images/icons/Tombstone.jpg
+https://downloads.cardforge.org/images/icons/Tower.jpg
 https://downloads.cardforge.org/images/icons/Totoro.jpg
 https://downloads.cardforge.org/images/icons/Traiton.jpg
 https://downloads.cardforge.org/images/icons/Treebeard.jpg
@@ -1024,6 +1052,7 @@ https://downloads.cardforge.org/images/icons/Ulamog.jpg
 https://downloads.cardforge.org/images/icons/Ulasht.jpg
 https://downloads.cardforge.org/images/icons/Uncle%20Owen.jpg
 https://downloads.cardforge.org/images/icons/Undead%20Knight.jpg
+https://downloads.cardforge.org/images/icons/Unearth.jpg
 https://downloads.cardforge.org/images/icons/Urabrask.jpg
 https://downloads.cardforge.org/images/icons/Urborg.jpg
 https://downloads.cardforge.org/images/icons/Urza.jpg
@@ -1066,7 +1095,7 @@ https://downloads.cardforge.org/images/icons/Wilhelm%20Grimm.jpg
 https://downloads.cardforge.org/images/icons/Wilma%20Flintstone.jpg
 https://downloads.cardforge.org/images/icons/Winged%20Stallion.jpg
 https://downloads.cardforge.org/images/icons/Winston%20Churchill.jpg
-https://downloads.cardforge.org/images/icons/Wishmaster%201.jpg
+https://downloads.cardforge.org/images/icons/Wishmaster.jpg
 https://downloads.cardforge.org/images/icons/Witch.jpg
 https://downloads.cardforge.org/images/icons/WitchDoctor.jpg
 https://downloads.cardforge.org/images/icons/Wolverine.jpg
@@ -1076,6 +1105,7 @@ https://downloads.cardforge.org/images/icons/Wood%20Ramp.jpg
 https://downloads.cardforge.org/images/icons/Wormwood.jpg
 https://downloads.cardforge.org/images/icons/Wort%20the%20Raidmother.jpg
 https://downloads.cardforge.org/images/icons/Wrenn.jpg
+https://downloads.cardforge.org/images/icons/Wurm.jpg
 https://downloads.cardforge.org/images/icons/Wyatt%20Earp.jpg
 https://downloads.cardforge.org/images/icons/Wyleth.jpg
 https://downloads.cardforge.org/images/icons/Xenagos.jpg 
@@ -1085,7 +1115,7 @@ https://downloads.cardforge.org/images/icons/Yennett.jpg
 https://downloads.cardforge.org/images/icons/Yewa.jpg
 https://downloads.cardforge.org/images/icons/Yma.jpg
 https://downloads.cardforge.org/images/icons/Yogi%20Bear.jpg
-https://downloads.cardforge.org/images/icons/Yosei,%20the%20Morning%20Star%201.jpg
+https://downloads.cardforge.org/images/icons/Yosei.jpg
 https://downloads.cardforge.org/images/icons/Yugo.jpg 
 https://downloads.cardforge.org/images/icons/Yuseimax%20Soulflayer%20Combo.jpg
 https://downloads.cardforge.org/images/icons/Zaevil%20Hand.jpg
